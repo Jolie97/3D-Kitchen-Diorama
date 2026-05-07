@@ -79,7 +79,7 @@ Imported assets into Unity and:
 ## Screenshots
 
 ### Final Kitchen Diorama
-![Kitchen Diorama](images/kitchen_render.png)
+![Kitchen Diorama](Kitchen_Diorama.jpg)
 
 ---
 
